@@ -45,6 +45,7 @@ This is the evidence of Chainapsis for `Most Helpful Validator`
 12 ) txhash : 8C7EE8A3E4146BD6DCE11A7DB247B51B82005902F5153B0DE107A39BEDC3086E (GoldenRatioStaking)
  - https://discord.com/channels/669268347736686612/1034957556038254612/1039742101707046992
  
+---
 ### 2. I have been active in the GoC channel and helped the validators.
 
  <img width="936" alt="image" src="https://user-images.githubusercontent.com/3301716/206129984-e33baffe-8d9a-465f-a7f1-e1f531c64865.png">
