@@ -6,7 +6,7 @@ This is the evidence of Chainapsis for `Most Helpful Validator`
 
 ## Details
 ### 1. Helped onboard 12 validators to the GoC testnet. ( every 02:00 ~ 11:00utc until for 2days )
-- I provided tokens to the validators while the coordinator was offline when the faucet was not yet ready in the provider chain.
+- I sent tokens for validators to onboard to the testnet while the coordinator was offline when the faucet was not yet ready in the provider chain.
 <img width="932" alt="image" src="https://user-images.githubusercontent.com/3301716/206123654-ed6e6b07-9bb7-4896-bf4e-2e8bcd5a9b55.png">
 
 1 ) txHash : CBE0D0FC00F626E11A3C6977DA7B6520D6DD6DC11B97108C433116B066F60E48 (ping.pub)
