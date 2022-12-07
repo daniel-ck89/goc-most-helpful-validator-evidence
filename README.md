@@ -1,8 +1,6 @@
 # goc-most-helpful-validator-evidence
 This is the evidence of Chainapsis for `Most Helpful Validator` 
 
-
-
 1. Helped onboard 12 validators to the GoC testnet. ( every 02:00 ~ 11:00utc until for 2days )
 2. I have been active in the GoC channel and helped the validators.
 
