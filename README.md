@@ -1,7 +1,13 @@
 # goc-most-helpful-validator-evidence
-This is evidence for Chainapsis.
+This is the evidence of Chainapsis for `Most Helpful Validator` 
 
-## 1. Helped onboard 12 validators to the GoC testnet. ( every 02:00 ~ 11:00utc until for 2days )
+
+
+1. Helped onboard 12 validators to the GoC testnet. ( every 02:00 ~ 11:00utc until for 2days )
+2. I have been active in the GoC channel and helped the validators.
+
+## Details
+### 1. Helped onboard 12 validators to the GoC testnet. ( every 02:00 ~ 11:00utc until for 2days )
 - I provided tokens to the validators while the coordinator was offline when the faucet was not yet ready in the provider chain.
 <img width="932" alt="image" src="https://user-images.githubusercontent.com/3301716/206123654-ed6e6b07-9bb7-4896-bf4e-2e8bcd5a9b55.png">
 
@@ -41,7 +47,7 @@ This is evidence for Chainapsis.
 12 ) txhash : 8C7EE8A3E4146BD6DCE11A7DB247B51B82005902F5153B0DE107A39BEDC3086E (GoldenRatioStaking)
  - https://discord.com/channels/669268347736686612/1034957556038254612/1039742101707046992
  
-## 2. I have been active in the GoC channel and helped the validators.
+### 2. I have been active in the GoC channel and helped the validators.
 
  <img width="936" alt="image" src="https://user-images.githubusercontent.com/3301716/206129984-e33baffe-8d9a-465f-a7f1-e1f531c64865.png">
  <img width="932" alt="image" src="https://user-images.githubusercontent.com/3301716/206130082-720e8f71-e672-4b62-865d-ccd38ed8541b.png">
