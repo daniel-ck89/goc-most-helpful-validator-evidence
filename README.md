@@ -91,5 +91,6 @@ This is the evidence of Chainapsis for `Most Helpful Validator`
 <img width="899" alt="image" src="https://user-images.githubusercontent.com/3301716/206136984-3312288f-e020-4328-87b6-3c33f71940dc.png">
 <img width="1020" alt="image" src="https://user-images.githubusercontent.com/3301716/206485774-afc89c16-62e4-4fab-b966-8deafa16badf.png">
 <img width="840" alt="image" src="https://user-images.githubusercontent.com/3301716/206495654-b8ea0b43-7926-4b99-a921-71af742e901b.png">
+<img width="677" alt="image" src="https://user-images.githubusercontent.com/3301716/206497509-5a2ab494-65d9-4237-ae46-9402ce425d57.png">
 
 
